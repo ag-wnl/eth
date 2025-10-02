@@ -1,0 +1,6 @@
+[submodule "vesting-n-days/lib/forge-std"]
+	path = vesting-n-days/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "vesting-n-days/lib/openzeppelin-contracts"]
+	path = vesting-n-days/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
